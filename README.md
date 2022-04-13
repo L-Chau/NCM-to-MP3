@@ -1,4 +1,4 @@
-# -NCM-MP3-
+# NCM to MP3
 
 ### 请注意
 本工具非本人开发，作者[Kenvie](https://kenvie.com)。
